@@ -1,0 +1,9 @@
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.exe.config
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.exe
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.pdb
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.csprojResolveAssemblyReference.cache
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.Form1.resources
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.Properties.Resources.resources
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.csproj.GenerateResource.Cache
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.exe
+c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.pdb
