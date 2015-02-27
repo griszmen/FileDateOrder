@@ -7,3 +7,12 @@ c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrd
 c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.csproj.GenerateResource.Cache
 c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.exe
 c:\users\watroba\documents\visual studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.pdb
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.exe.config
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.exe
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.pdb
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.exe
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\bin\Debug\FileDateOrder.pdb
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.csprojResolveAssemblyReference.cache
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.Form1.resources
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.Properties.Resources.resources
+C:\Users\Grisza\Documents\Visual Studio 2013\Projects\FileDateOrder\FileDateOrder\obj\Debug\FileDateOrder.csproj.GenerateResource.Cache
