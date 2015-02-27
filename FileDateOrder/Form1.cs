@@ -30,7 +30,13 @@ namespace FileDateOrder
             }
 
             textBox1.Text = path;
-            
+
+            string[] files = Directory.GetFiles(path, "*.txt", SearchOption.AllDirectories);
+
+            foreach (string file in files)
+            {
+                DateTime creationDate = File.GetLastWriteTime(file);
+            }            
 
         }
     }
